@@ -1,0 +1,5 @@
+{
+  "name": "TechNova IT Services",
+  "description": "A fully dynamic, serverless IT Services website with a comprehensive Admin Panel using LocalStorage for persistence.",
+  "requestFramePermissions": []
+}
